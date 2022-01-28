@@ -1,2 +1,2 @@
 # charty-example
-Example D3 Visualization.
+Example D3 Visualization
